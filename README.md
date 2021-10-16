@@ -22,6 +22,13 @@ $ yarn global add zhurong-cli
 
 ```
 $ hs create <dirname>
+
+# dev 
+$ npm run dev
+
+# prod
+$ npm run build
+$ npm run server
 ```
 
 # TODO
