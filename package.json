@@ -1,0 +1,38 @@
+{
+  "name": "hs-t-cli",
+  "version": "1.0.0",
+  "description": "a simple react-express-ssr-cli",
+  "main": "index.js",
+  "bin": {
+    "hs": "./bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssr",
+    "express",
+    "webpack",
+    "redux",
+    "react-router",
+    "react"
+  ],
+  "author": {
+    "name": "dengjiahao"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0",
+    "download-git-repo": "^3.0.2",
+    "execa": "^5.1.1",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "^5.4.0"
+  }
+}
