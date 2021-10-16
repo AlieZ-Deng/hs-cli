@@ -12,10 +12,10 @@
 
 ```
 # npm
-$ npm install -g zhurong-cli
+$ npm install -g hs-test-cli
 
 # or yarn
-$ yarn global add zhurong-cli
+$ yarn global add hs-test-cli
 ```
 
 # 使用
