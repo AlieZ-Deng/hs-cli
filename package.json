@@ -1,6 +1,6 @@
 {
   "name": "hs-test-cli",
-  "version": "1.3.0",
+  "version": "1.6.0",
   "description": "a simple react-express-ssr-cli",
   "main": "index.js",
   "bin": {
