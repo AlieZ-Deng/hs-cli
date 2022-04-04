@@ -1,6 +1,6 @@
-# hs-test-cli
+# hs-cli
 
-# 这是一个测试 cli 工具
+# 这是一个 cli 工具
 
 用以快速生成 react + express + ssr 项目
 
